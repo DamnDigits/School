@@ -6,8 +6,9 @@
 
 
 ## statische Testtechniken 
+````
 Hier wird das Testobjekt basierend auf seiner Form, seiner Struktur, seines Inhalts oder seiner Dokumentation analysiert und bewertet.
-
+````
 ### Vorteile Statischer Testtechniken:
 
 + Frühe Fehlererkennung bereits in der Spezifikation
@@ -27,3 +28,10 @@ Nachteile Statischer Testtechniken:
 + Einige Fehlerzustände entstehen erst bei Ausführung. Ein Divisor kann beispielsweise bei der Ausführung den Wert „0“ annehmen und somit einen Laufzeitfehler verursachen. Dieser kann durch reines Sichten des Programmtextes nicht ermittelt werden
 
 ## dynamische Testtechniken
+````
+Hierbei werden Testobjekte durch Ausführen des Codes auf einem Rechner getestet wodurch etwaige Fehler in Erscheinung treten
+````
+
+#
+Info
++ Begonnen am `21.09.2021`
