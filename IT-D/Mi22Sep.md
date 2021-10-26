@@ -24,12 +24,17 @@ ISO ist kein Akronym sondern steht für das Griechische wort isos was so viel be
 `Was ist die IEC`  
 
 Die IEC ist eine Internationale Standards Organisation welche alle Elektrotechnologischen  
-Standards Veröffentlicht.
+Standards Veröffentlicht. Außerdem verwaltet die IEC vier globale konformitätsbewertungs systeme welche dafür zuständig sind zu Zertifizieren ob equipment, systeme und komponenten ihren Globalen Standards entsprechen. 
 
 `Was deckt die IEC ab`
 
-Die IEC deckt ein grosse Reichweite an technologien ab. Sie reichen von Energiegewinnung, übertragung und bereitstellung über Haushaltsgeräten, Büro-utensilien halbleitern glasfaserkabeln batterien, solarenergie, nanotechnologie zu Meeresenergie und weiteren technologien.
+Die IEC deckt ein grosse Reichweite an technologien ab. Sie reichen von Energiegewinnung, übertragung und bereitstellung über Haushaltsgeräten, Büro-utensilien halbleitern glasfaserkabeln, batterien, solarenergie, nanotechnologien zu Meeresenergie und weiteren technologien. Im Endefekt werden alle Elektrotechnologien von der IEC abgedeckt das beinhalten Energie Produktion und bereitstellung, Elektronik, Magnetik, Elektromagnetik, Elektroakkustik, Multimedia, Telekomunikation und Medizintechnik aber auch damit assoziiert generelle Disziplinen wie Terminologieen und Symbole, Elektromagnetische Kompatibilität, Bemessungen und leistungen, Abhängigkeiten, Design, Entwicklung Sicherheit und die Umwelt.
 
+`Wie Arbeitet die IEC`  
+Die IEC Arbeitet dicht mit der International Organization for Standardization (ISO) und der International Telecommunication Union (ITU) zusammen. Ausserdem Arbeitet sie mit mehreren Standards entwickelnden Organisatzionen zusammen einschließlich der IEEE zusammen mit welcher sie eine Kooperationsverinbarung trafen um gemeinsam Standards entwickeln zu können.
+
+`Namensaufbau eines IEC Standards`  
+IEC Standards die nicht in Zusammenarbeit mit der ISO entstehen werden mit nummern von 60000-79999 versehen und ihre Titel sehen wie folgt aus `IEC 60417`. Infolge der Dresdener vereinbarung mit der CENELEC wird den nummern der Standards die vor 1997 entstanden 60000 hinzugefügt. so wird aus `IEC 27` der Standard `IEC 60027` 
 #
 
 ## Standards
