@@ -105,8 +105,16 @@ siehe arbeitsblat DatensicherungBlatt2.pdf
 ## Aufgabe 5
 
 Wie lange dauert das sichern von 1 TIB daten bei einer geschwindigkeit von  
-`A: 360MB/s (unkomprimiert)`:  509,25 min.  
-`B: 900MB/S (unkomprimiert)`:  203,60 min
+`A: 360MB/s (unkomprimiert)`:  50,925 min.  
+1TiB = 2^10 GiB.  
+1GiB = 2^10 MiB.  
+1MiB = 2^10 KiB.  
+1KiB = 2^10 B
+
+1MB =  10^3   KB
+1KB =  10^3   B
+
+`B: 900MB/S (komprimiert)`:  20,360 min
 
 ## aufgabe 6
 
@@ -114,34 +122,33 @@ Wie lange dauert das sichern von 1 TIB daten bei einer geschwindigkeit von
 
 `tägliche sicherung`:  
 `bei 360MB/S`.   
-500 MiB = 509,25/2 = 254,625 min = 4,24 stunden.  
+500 MiB = 50,925/2 = 25,4625min   
 Beginn der sicherung 4:00 uhr 
 Anfange der Schicht 6:00 uhr
 Zeit zum sichern 2 Stunden.  
-benötigte zeit.  
+benötigte zeit. 25min  
 ***Zeitüberschreitung bei derzeitiger sicherung 2,24 stunden.***.  
 `bei 900MB/S`.   
-500 MiB = 203,60/2 = 101,8 min = 1,7 stunden.  
+500 MiB = 20,360/2 = 10,18 min.  
 Beginn der sicherung 4:00 uhr 
 Anfange der Schicht 6:00 uhr.  
 Zeit zum sichern 2 Stunden.  
-benötigte zeit 1,7 stunden.  
+benötigte zeit 10 min.  
 ***puffer 0,3 stunden***
 
 `Einmalige sicherung (Dienstag)`.  
 `bei 360MB/S`.   
-4 TiB = 4*509,25 = 2037 min = 33 Stunden.  
+4 TiB = 4*50,925 = 203,7 min = 3,3 Stunden.  
 beginn der sicherung dienstag 4:00 uhr   
 Anfang der schicht 6:00 uhr.   
 zeit zum sichern 2 stunden.  
-***zeitüberschreitung bei derzeitiger sicherung 31 stunden***
+***zeitüberschreitung bei derzeitiger sicherung 1,3 stunden***
 `bei 900MB/S`.   
-500 MiB = 4*203,60 = 814,4 min = 13,57 stunden.  
+500 MiB = 4*20,360 = 81,44 min = 1,357 stunden.  
 Beginn der sicherung 4:00 uhr   
 Anfange der Schicht 6:00 uhr.  
 Zeit zum sichern 2 Stunden.  
-benötigte zeit 13,57 stunden.  
-***zeitüberschreitung bei derzeitiger sicherung 11,57 stunden.***
+benötigte zeit 1,357 stunden.  
 
 
 `Verbesserungs vorschläge`:  

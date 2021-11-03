@@ -7,16 +7,33 @@ Ergebnis: nein
 ### Standards und Frameworks (ISO, ISEC, CMMI, CoBit, FitSM, SIAM...)
 Gruppe: `Eren Dogan Marco`  
 #
-## International Organization for Standardization
+## International Organization for Standardization (Normen)
 
-`Was ist die ISO`  ???? 
+`Was ist die ISO` 
 
-Die ISO ist einzusammnenschluss von representante die aus 165 national standard organisationen stammen. Sie veröffentlicht eine große reichweite an Properitären, Industriellen und Commerziellen standards.
-
+Die ISO ist einzusammnenschluss von representante die aus 165 national standards organisationen stammen. Sie veröffentlicht eine große reichweite an Properitären, Industriellen und Commerziellen Normen mit ausnahme von Normen die sich auf Elektrik und Elektronik beziehen, für diese Normen ist die IEC zuständig und Normen die sich auf Telekomunikation beziehen für welche die ITU zuständig ist.
+Gemeinsam bilden diese drei Organisation die WSC (World Standards Cooperation). Offizielle Sprachen der ISO sind Englisch, Französisch und Russisch.
 
 `Wofür steht ISO`
 
 ISO ist kein Akronym sondern steht für das Griechische wort isos was so viel bedeutet wie gleich. ISO ist kein akronym, da dieses in verschiedenen länder anders lauten müsste
+
+`Der Normungsprozess`
+
+Der Normungsprozess der ISO läuft in folgenden Schritten ab
+
+
+        Stufe	            Name	                Akronym
+00	    Vorstadium	        Vorläufiges Projekt	    PWI
+10	    Vorschlag	        Normenantrag		    NWIP
+20	    Vorbereitung	    Arbeitspapier		    WD
+30	    Komiteephase	    Komiteeentwurf		    CD
+40	    Prüfung	            Entwurf		            DIS
+50	    Zustimmung	        Schlussentwurf		    FDIS
+60	    Veröffentlichung	Internationale Norm	    IS
+90	    Überprüfung		    Review	
+95	    Rückzug		        Withdrawal	
+
 
 #
 ## International Electronik Commision
@@ -57,7 +74,7 @@ indem Sie dem endverbraucher versichern das zertifizierte produkte oder dienstle
 
 `Welche Standards`  
 Es wurden mehr als `20.000` Standards erstellt welche von hergestellten Produkten und technologien über Lebensmittelsicherheit bis hin zur gesundheitspflege reichen.
-
+Es gibt technische (z. B. MP3 oder Telefonkarten), klassifikatorische (z. B. Ländercodes wie „DE“, „NL“, „JP“) und Verfahrensstandards (z. B. Qualitätsmanagement nach ISO 9000).
 `wie entstehen Standards`
 
 Internationale Standards werden vom Technikcommitee (TC) und subcommittees (SC) der ISO in folgendene sechs schritten entwickelt. 
